@@ -1,3 +1,5 @@
+** Notice: `capablue/stomp` disappeared from github around 2018-09-25. I had a local copy of the latest tagged version, `0.3.1`, which I'm resurrecting here for anybody to use. I don't intent to maintain it, though, and suggest that projects dependent on `capablue/stomp` switch over to `react/stomp`. The lack of heart-beating in `react/stomp` will need to be addressed in some fashion. **
+
 # React/STOMP
 
 STOMP bindings for React.
